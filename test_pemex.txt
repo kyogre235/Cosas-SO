@@ -1,0 +1,278 @@
+Pentesting Report for PEMEX.com
+Fecha de escaneo: Sun Mar  9 10:56:11 PM CST 2025
+============================
+   Domain Name: PEMEX.COM
+   Registry Domain ID: 231477_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.akky.mx
+   Registrar URL: http://www.akky.mx
+   Updated Date: 2025-01-07T16:57:45Z
+   Creation Date: 1995-06-22T04:00:00Z
+   Registry Expiry Date: 2026-06-21T04:00:00Z
+   Registrar: Akky Online Solutions, S.A. de C.V.
+   Registrar IANA ID: 1705
+   Registrar Abuse Contact Email: abuso@akky.mx
+   Registrar Abuse Contact Phone: +52 (01) 81 8864-2625
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: A1-68.AKAM.NET
+   Name Server: A12-66.AKAM.NET
+   Name Server: A18-66.AKAM.NET
+   Name Server: A20-67.AKAM.NET
+   Name Server: A5-66.AKAM.NET
+   DNSSEC: signedDelegation
+   DNSSEC DS Data: 39446 13 2 EABEADF50908BDB290C08C7230EEB988224FCD1C6205B0374172228BD0B74E23
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-03-10T04:55:57Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+Domain Name: pemex.com
+Registry Domain ID: 231477_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.akky.mx
+Registrar URL: http://www.akky.mx
+Updated Date: 2025-01-07T10:57:45-0600
+Creation Date: 1995-06-21T22:00:00-0600
+Registrar Registration Expiration Date: 2026-06-20T00:00:00-0500
+Registrar: Akky Online Solutions S.A. de C.V.
+Registrar IANA ID: 1705
+Registrar Abuse Contact Email: abuse@akky.mx
+Registrar Abuse Contact Phone: +52.8188642625
+Reseller:
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Registry Registrant ID: Redacted for Privacy (Redactado por Privacidad)
+Registrant Name: Redacted for Privacy (Redactado por Privacidad)
+Registrant Organization: 
+Registrant Street: Redacted for Privacy (Redactado por Privacidad)
+Registrant City: Redacted for Privacy (Redactado por Privacidad)
+Registrant State/Province: Ciudad de Mexico
+Registrant Postal Code: Redacted for Privacy (Redactado por Privacidad)
+Registrant Country: MX
+Registrant Phone: Redacted for Privacy (Redactado por Privacidad)
+Registrant Phone Ext: Redacted for Privacy (Redactado por Privacidad)
+Registrant Fax: Redacted for Privacy (Redactado por Privacidad)
+Registrant Fax Ext: Redacted for Privacy (Redactado por Privacidad)
+Registrant Email: https://www.akky.mx/WhoisContact
+Registry Admin ID: Redacted for Privacy (Redactado por Privacidad)
+Admin Email: https://www.akky.mx/WhoisContact
+Registry Tech ID: Redacted for Privacy (Redactado por Privacidad)
+Tech Email: https://www.akky.mx/WhoisContact
+Name Server: a1-68.akam.net
+Name Server: a12-66.akam.net
+Name Server: a18-66.akam.net
+Name Server: a20-67.akam.net
+Name Server: a5-66.akam.net
+DNSSEC: signed
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-03-09T22:56:00-0600 <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+% The requested information ("Information") is provided only for the delegation
+% of domain names and the operation of the DNS administered by Akky Online Solutions.
+
+% It is absolutely prohibited to use the Information for other purposes, 
+% including sending not requested emails for advertising or promoting products
+% and services purposes (SPAM) without the authorization of the owners of the
+% Information and Akky Online Solutions.
+
+% The database generated from the delegation system is protected by the
+% intellectual property laws and all international treaties on the matter.
+
+% If you need more information on the records displayed here, please contact us
+% by email at ayuda@akky.mx.
+
+% If you want notify the receipt of SPAM or unauthorized access, please send a
+% email to abuse@akky.mx.
+
+% La informacion que ha solicitado se provee exclusivamente para fines
+% relacionados con la delegacion de nombres de dominio y la operacion del DNS
+% administrado por Akky Online Solutions.
+
+% Queda absolutamente prohibido su uso para otros propositos, incluyendo el
+% envio de Correos Electronicos no solicitados con fines publicitarios o de
+% promocion de productos y servicios (SPAM) sin mediar la autorizacion de los
+% afectados y de Akky Online Solutions.
+
+% La base de datos generada a partir del sistema de delegacion, esta protegida
+% por las leyes de Propiedad Intelectual y todos los tratados internacionales
+% sobre la materia.
+
+% Si necesita mayor informacion sobre los registros aqui mostrados, favor de
+% comunicarse a ayuda@akky.mx.
+
+% Si desea notificar sobre correo no solicitado o accesos no autorizados, favor
+% de enviar su mensaje a abuse@akky.mx.
+============================
+PING PEMEX.com (200.23.91.20) 56(84) bytes of data.
+
+--- PEMEX.com ping statistics ---
+4 packets transmitted, 0 received, 100% packet loss, time 3143ms
+
+============================
+IP Pública y segmentos: 
+PEMEX.com has address 200.23.91.20
+PEMEX.com mail is handled by 5 pemex-com.mail.protection.outlook.com.
+============================
+Registros IPv4 e IPv6: 
+200.23.91.20
+============================
+Registros reversos: 
+============================
+Ruta y saltos al dominio: 
+traceroute to PEMEX.com (200.23.91.20), 30 hops max, 60 byte packets
+ 1  10.0.2.2 (10.0.2.2)  0.464 ms  0.431 ms  0.408 ms
+ 2  mygpon.ip (192.168.1.254)  0.804 ms  1.030 ms  1.261 ms
+ 3  dsl-servicio-l200.uninet.net.mx (200.38.193.226)  6.354 ms  6.462 ms  6.548 ms
+ 4  inet-mex-nextengo-154-tge0-0-0-0.uninet.net.mx (189.246.161.237)  6.154 ms  6.262 ms  6.240 ms
+ 5  customer-187-218-5-209.uninet-ide.com.mx (187.218.5.209)  6.223 ms  6.335 ms  6.412 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+============================
+Enumeración de servidores DNS: 
+a12-66.akam.net.
+a5-66.akam.net.
+a20-67.akam.net.
+a18-66.akam.net.
+a7-64.akam.net.
+a1-68.akam.net.
+============================
+Escaneo de puertos con nmap: 
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-03-09 22:56 CST
+Nmap scan report for PEMEX.com (200.23.91.20)
+Host is up (0.0078s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http
+443/tcp open  ssl/https
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port80-TCP:V=7.94SVN%I=7%D=3/9%Time=67CE711E%P=x86_64-pc-linux-gnu%r(Ge
+SF:tRequest,27C,"HTTP/1\.0\x20302\x20Found\x20:\x20Moved\x20Temporarily\r\
+SF:nLocation:\x20https:///\r\nConnection:\x20close\r\nCache-Control:\x20no
+SF:-cache\r\nPragma:\x20no-cache\r\nSet-Cookie:\x20PMX_Cookie=!/Fvuc8DQgwN
+SF:2Y9Xf0aFk1I/JVNZ7uQShVG8XP8UtW3HrbNx01AJ37w8EmnpkPQUCya1ASubL9jQF6u0=;\
+SF:x20path=/;\x20Httponly\r\nSet-Cookie:\x20f5avraaaaaaaaaaaaaaaa_session_
+SF:=NKLMKHDKFMNAEOJDIGOAMHPKAMIOMPGPCIHLACGBMMLPGMOACFDNPBKEBLGENHDGINODFE
+SF:ELDAFCKGGFBLOABBBBNHDMOBFKMANMCDNOAJOGFMFKLNJKOEOPAFENNIMK;\x20HttpOnly
+SF:;\r\nSet-Cookie:\x20TS0136b7a5=01d42166bbf5aab7a9b263da053b989231c75ea8
+SF:c7cad712ad6528bd53b6fe1360c0724f99933fe8fd0a1710cef3d9ffba02aa50d1d0950
+SF:e9da4ae81c032f9351f750059d1f2daf51ce94e6ace547f369a5f688b54;\x20Path=/\
+SF:r\n\r\n")%r(HTTPOptions,27C,"HTTP/1\.0\x20302\x20Found\x20:\x20Moved\x2
+SF:0Temporarily\r\nLocation:\x20https:///\r\nConnection:\x20close\r\nCache
+SF:-Control:\x20no-cache\r\nPragma:\x20no-cache\r\nSet-Cookie:\x20PMX_Cook
+SF:ie=!aaEUvZ6JD4qN9mDf0aFk1I/JVNZ7udt8m5NcM4hge2uDIKOhXYfqBMVBDJmqIOK4tKs
+SF:fnuYwwE02dzQ=;\x20path=/;\x20Httponly\r\nSet-Cookie:\x20f5avraaaaaaaaaa
+SF:aaaaaa_session_=EKFAJKDAEABJMNFDHJHLJPKOPBHMHKGOINOKAJIFIJNEGMMKJICNMLP
+SF:IDNFONJEDDPKDELFJDAMAOKELICDAAFAPNHAIGFANFIGFBOLKHIONEKLMLPJHLIPOGFMDPB
+SF:IG;\x20HttpOnly;\r\nSet-Cookie:\x20TS0136b7a5=01d42166bb92daddc2a5cab35
+SF:3f5986f03a0e5ece589a63fb38ef19ad7bc026335ac733d08bf471484cc68b96c69e8bd
+SF:5ded9917b8982dd6402a5d9bb9f840d244d4b940a38865673e822878b8d38822d0506de
+SF:9bc;\x20Path=/\r\n\r\n")%r(RTSPRequest,29B,"HTTP/1\.1\x20200\x20OK\r\nX
+SF:-Frame-Options:\x20SAMEORIGIN\r\nX-XSS-Protection:\x201;\x20mode=block\
+SF:r\nX-Content-Type-Options:\x20nosniff\r\nCache-Control:\x20no-cache\r\n
+SF:Connection:\x20close\r\nContent-Type:\x20text/html;\x20charset=utf-8\r\
+SF:nPragma:\x20no-cache\r\nContent-Length:\x20246\r\nSet-Cookie:\x20f5avra
+SF:aaaaaaaaaaaaaaa_session_=AOMHPCJCLBLOFGAGGPMKNIMPMJAHPAPKGKEFADBHHJJCJD
+SF:KJEOCALIBILNPHOPMPFEJDBMONDAFEKJEBCCIANCCJNHNNAHJOFOLGBNNJGGLAKFHDPHIKA
+SF:JCLHCCGBPKI;\x20HttpOnly;\r\n\r\n<html><head><title>Request\x20Rejected
+SF:</title></head><body>The\x20requested\x20URL\x20was\x20rejected\.\x20Pl
+SF:ease\x20consult\x20with\x20your\x20administrator\.<br><br>Your\x20suppo
+SF:rt\x20ID\x20is:\x202473118831537932403<br><br><a\x20href='javascript:hi
+SF:story\.back\(\);'>\[Go\x20Back\]</a></body></html>");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port443-TCP:V=7.94SVN%T=SSL%I=7%D=3/9%Time=67CE7125%P=x86_64-pc-linux-g
+SF:nu%r(GetRequest,2AC,"HTTP/1\.0\x20400\x20Bad\x20Request\r\nContent-Type
+SF::\x20text/html\r\nSet-Cookie:\x20PMX_Cookie=!QamWxl3ge/4GhcPf0aFk1I/JVN
+SF:Z7uTRQr4g6T9pfKNVZboqD1wp\+bsVvMOLzPYgLDgJAuMiS50xYO3w=;\x20path=/;\x20
+SF:Httponly;\x20Secure\r\nSet-Cookie:\x20f5avraaaaaaaaaaaaaaaa_session_=MM
+SF:CDLJACHAIPEDCPDGGECFHJJHFCELBIFFONKBJEDPDLCCOBLCPONHDHNEIJOKPPCGMDMAGEK
+SF:ANDDEKAHJAAAPLKNHBMJJPBLCEFENJHMMCPOAMNADGOKJFHONBMHBFI;\x20HttpOnly;\x
+SF:20secure;\r\nSet-Cookie:\x20TS0136b7a5=01d42166bba93e26e071a38550782a40
+SF:d83612b914815842834624779babda62cd6e35ad63cf454a43bf0d2304f3d89b0fd6d34
+SF:de61b37ec232c6f8f28a6133448ccbb22c725aaaa392a109ad4f0e100ebc2f971a4;\x2
+SF:0Path=/\r\nConnection:\x20close\r\n\r\n<html><head><title>Error</title>
+SF:</head><body>\r\n<h2>ERROR:\x20</h2>\r\n<br>\r\n</body></html>")%r(HTTP
+SF:Options,2AC,"HTTP/1\.0\x20400\x20Bad\x20Request\r\nContent-Type:\x20tex
+SF:t/html\r\nSet-Cookie:\x20PMX_Cookie=!JPGykFjEEY\+Q1pLf0aFk1I/JVNZ7uclaP
+SF:f86WWiuFPxtUvUgfVKKAchwhlhZItyAupPIST45wqxkpj0=;\x20path=/;\x20Httponly
+SF:;\x20Secure\r\nSet-Cookie:\x20f5avraaaaaaaaaaaaaaaa_session_=PGILGOEFCH
+SF:FHDEMFJGCMPMJEAPOCNIIHGPBPJPGGINAOCPNNEGCLHOMMMAAIMDDNILCDMIGOKAIEOAGBE
+SF:BCAPHMPNHOCHMHBBKFLJLBBICPKBMPFCNDJMPGJAGBMKFDH;\x20HttpOnly;\x20secure
+SF:;\r\nSet-Cookie:\x20TS0136b7a5=01d42166bbdd80851ca93edc651e1c0ac4ed07d8
+SF:1095498340c801f15ac0d2dc85466c1919c5dada9f66fc32497993ad10b4f55dcbb2392
+SF:3709165f3bc936aa87afa0c74866e61c4b68fb7853ced07159488a1b6ef;\x20Path=/\
+SF:r\nConnection:\x20close\r\n\r\n<html><head><title>Error</title></head><
+SF:body>\r\n<h2>ERROR:\x20</h2>\r\n<br>\r\n</body></html>")%r(FourOhFourRe
+SF:quest,2A3,"HTTP/1\.1\x20200\x20OK\r\nX-Frame-Options:\x20SAMEORIGIN\r\n
+SF:X-XSS-Protection:\x201;\x20mode=block\r\nX-Content-Type-Options:\x20nos
+SF:niff\r\nCache-Control:\x20no-cache\r\nConnection:\x20close\r\nContent-T
+SF:ype:\x20text/html;\x20charset=utf-8\r\nPragma:\x20no-cache\r\nContent-L
+SF:ength:\x20246\r\nSet-Cookie:\x20f5avraaaaaaaaaaaaaaaa_session_=EKMNDIGE
+SF:FHFJJIGLMKPIJPHPJDIKNIEAHOHIINLMJBOIFAECOFHFANFLAEBNJHHDFOIDFJMKKANOLIL
+SF:GIHKAFOAONHFJEKMGIMJAJEMDGKLLKPMCDHFEFLPGPBDIIKDB;\x20HttpOnly;\x20secu
+SF:re;\r\n\r\n<html><head><title>Request\x20Rejected</title></head><body>T
+SF:he\x20requested\x20URL\x20was\x20rejected\.\x20Please\x20consult\x20wit
+SF:h\x20your\x20administrator\.<br><br>Your\x20support\x20ID\x20is:\x20247
+SF:3118831551552850<br><br><a\x20href='javascript:history\.back\(\);'>\[Go
+SF:\x20Back\]</a></body></html>");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 157.20 seconds
+============================
+============================
